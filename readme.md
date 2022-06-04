@@ -31,3 +31,5 @@
 - Ir a C:\Users\Manuel\Documents\SAIT y revisar:
     - Se haya renombrado la versión anterior
     - Se haya descargado la nueva versión
+
+![](Screenshot_2022-06-02_16-23-30.png)
